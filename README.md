@@ -55,11 +55,6 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/calendar-clone.git
-cd calendar-clone
+git clone https://github.com/rajveer-dhaked/calendar-clone.git
 
-# 2. Compile the source code
-g++ -std=c++11 -o calendar main.cpp calendar.cpp event.cpp
 
-# 3. Run the application
-./calendar
