@@ -1,4 +1,4 @@
-# dsa_project
+# DSA_PROJECT
 # 🗓️ task management with  Calendar Clone - C++ Terminal Application
 
 > A powerful, terminal-based calendar application built in C++, inspired by Google Calendar. Offers intuitive scheduling, event management, and multiple calendar views — right from your terminal.
