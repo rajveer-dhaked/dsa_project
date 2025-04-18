@@ -3,7 +3,7 @@
 
 > A powerful, terminal-based calendar application built in C++, inspired by Google Calendar. Offers intuitive scheduling, event management, and multiple calendar views — right from your terminal.
 
-![Terminal Screenshot](screenshot.png)
+![Terminal Screenshot](SCREENSHOT.png)
 
 ---
 
